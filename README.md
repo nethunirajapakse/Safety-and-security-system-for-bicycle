@@ -67,10 +67,13 @@ The electronics were mapped and designed using **EasyEDA**.
 
 ## Block Diagram
 <img width="700" height="1024" alt="block diagram" src="https://github.com/user-attachments/assets/6ddac7c5-90a7-492d-aa5c-f0496126e213" />
+---
 ## Schematic Diagram
 <img width="1280" height="864" alt="Schematic diagram" src="https://github.com/user-attachments/assets/ecfc1e84-20d2-4e34-ae75-7fc85ef9a3c4" />
+---
 ## PCB design
 <img width="2048" height="1003" alt="PCB design" src="https://github.com/user-attachments/assets/3f6b30ac-7b7e-4f20-9aae-69276f209272" />
+---
 ## Final Product
 <img width="512" height="384" alt="final product" src="https://github.com/user-attachments/assets/08be7173-bec0-4d0d-a959-df1d9366d5f1" />
 
