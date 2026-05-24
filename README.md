@@ -72,5 +72,5 @@ The electronics were mapped and designed using **EasyEDA**.
 ## PCB design
 <img width="2048" height="1003" alt="PCB design" src="https://github.com/user-attachments/assets/3f6b30ac-7b7e-4f20-9aae-69276f209272" />
 ## Final Product
-<img width="1024" height="768" alt="final product" src="https://github.com/user-attachments/assets/08be7173-bec0-4d0d-a959-df1d9366d5f1" />
+<img width="512" height="384" alt="final product" src="https://github.com/user-attachments/assets/08be7173-bec0-4d0d-a959-df1d9366d5f1" />
 
